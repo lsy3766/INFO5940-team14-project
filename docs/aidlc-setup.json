@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "release_url": "https://github.com/awslabs/aidlc-workflows/releases/tag/v1.0.1",
+  "asset_url": "https://github.com/awslabs/aidlc-workflows/releases/download/v1.0.1/ai-dlc-rules-v1.0.1.zip",
+  "sha256": "ac0601544b6c7ba41b541a7a96259d6ea3995ea0b94b2a58a333ae7898e22b39",
+  "github_asset_digest": "sha256:ac0601544b6c7ba41b541a7a96259d6ea3995ea0b94b2a58a333ae7898e22b39",
+  "installation": {
+    "AGENTS.md": "aws-aidlc-rules/core-workflow.md",
+    ".aidlc-rule-details/": "aws-aidlc-rule-details/"
+  }
+}

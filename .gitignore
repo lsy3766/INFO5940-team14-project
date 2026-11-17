@@ -1,0 +1,15 @@
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+# Local dependencies and runtime data
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+*.sqlite
+*.sqlite3
+# Generated files
+dist/
+coverage/
+.DS_Store
