@@ -11,3 +11,8 @@ The confirmed collaboration plan is two one-hour meetings each week, combining o
 | Evaluation & Delivery | Prepare expected outcomes early; review shortages, duplicate confirmations, cancellation, failed search/model calls, story-to-unit mapping; check rubric completeness. | Integration tests, model evaluation, and demo verification. | Yichen Tong |
 
 These are review and coordination responsibilities, not permission to generate Inception artifacts outside the shared workflow. All named members are listed in README.md. Assignments above are taken from the team’s original requirements answers (Q13). They coordinate shared review, not exclusive code ownership or independent deployments.
+
+
+## Full-team topic discussion — user confirmation
+
+Recorded at 2026-11-20T20:27:14+00:00; this is the recording time, not the meeting date. The user confirms that the team held a full-team topic-selection discussion and selected the current cooking-assistant project through that discussion. Meeting date, duration, individual remarks and detailed minutes were not supplied and are not inferred. This confirmation resolves the earlier uncertainty about whether the topic discussion occurred; it does not reconstruct a meeting transcript or missing AI responses.

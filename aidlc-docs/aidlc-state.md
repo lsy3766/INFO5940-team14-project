@@ -8,7 +8,7 @@
 - Current Stage: INCEPTION — COMPLETE / STOPPED BEFORE CONSTRUCTION
 - Current Status: All three unit artifacts explicitly approved; Units Generation and Inception COMPLETE; stopped before Construction
 - Scope: Inception only; stop after explicit Units Generation approval
-- Language: Chinese discussion; English deliverables; Chinese extension opt-in prompts as required
+- Current repository language: English. Historical discussion and extension prompts used Chinese; the audit now provides a labelled English translation with original Git provenance.
 
 ## Workspace State
 - Existing Code: No
@@ -78,7 +78,7 @@ Full PBT rules loaded. Disabled Security and Resiliency extension rules not load
 - Default time budgets: breakfast 15 minutes; lunch/dinner 45 minutes. No identical main dish on consecutive days; meal-specific overrides; time and repetition relaxation requires explicit permission.
 - Evaluation: Round 2 Q6 A; at least 8/10 usable plans or correct infeasibility responses, all 10 protect hard exclusions and confirmation boundaries, inspect tool traces, at most one requested revision for a feasible saved plan.
 - PBT framework direction: Hypothesis with pytest (Round 2 Q7 A); installation and tests remain outside this run.
-- Meeting proposal: Friday for two hours, tentative; no final cadence or clock time inferred.
+- Current collaboration plan: two one-hour meetings each week, online/in-person combined, with WeChat between meetings; supersedes the earlier tentative Friday proposal. See docs/COLLABORATION.md. No actual meeting occurrence is inferred.
 
 ## Requirements Review Gate
 - [x] Create English requirements.md with source traceability, acceptance criteria, scope boundaries, draft differences, and extension compliance

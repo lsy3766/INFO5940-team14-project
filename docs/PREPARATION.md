@@ -20,11 +20,12 @@ Status: Inception completed and all required artifacts explicitly approved. Stop
 
 - [ ] Confirm repository collaborators accepted invitations; no acceptance evidence is recorded.
 - [ ] Resolve audit response-text gaps using authentic transcript material; do not invent original text or timestamps.
-- [ ] Confirm current Canvas rubric, deadline/timezone, required repository visibility and submission channel.
+- [x] Review the full assignment text supplied by the user against local deliverables; see the latest readiness review.
+- [ ] Confirm any later Canvas changes and complete external repository-access/submission checks.
 - [ ] Review public metadata and sensitive-content checks, then separately authorize commit/push and verify signed-out repository access.
 - [ ] Submit the repository URL through the required course channel; no submission is claimed.
 
-No actual full-team meeting occurrence is documented. Do not mark a meeting “held” based only on the approved collaboration plan; approval statements in chat are the evidence for workflow decisions.
+- [x] User confirms a full-team topic-selection discussion was held and resulted in the current cooking-assistant topic. See the confirmation in COLLABORATION.md and audit.md. The meeting date and detailed minutes were not supplied.
 
 ## Future Construction checks — NOT started or authorized
 
@@ -40,7 +41,7 @@ Using AI-DLC v1.0.1, start our new cooking assistant project. Read README.md, do
 
 ## Submission instructions pending course verification
 
-The original preparation input states November 24, 2026, 11:59 PM and one public GitHub repository URL per team. These details could not be independently verified against Canvas; confirm the actual deadline/timezone and instructions before submission. Include rules, README, labelled historical inputs, all approved Inception artifacts and audit/state. No implementation is required for the recorded Inception scope.
+The full assignment text supplied by the user specifies November 24, 2026, 11:59 PM and one GitHub repository URL per team on Canvas, accessible without signing in. Later Canvas changes and timezone interpretation were not independently verified. Include rules, README, labelled historical inputs, all approved Inception artifacts and audit/state. No implementation is required for the recorded Inception scope.
 
 ## References
 

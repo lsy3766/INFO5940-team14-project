@@ -1,5 +1,7 @@
 # Requirement Verification Questions
 
+> English translation edition: extension questions 14–16 have been translated from Chinese without changing options or recorded answers. This is a language-only revision, not a new team decision.
+
 Status: Awaiting team answers. No choices are selected or approved.
 
 Fill every `[Answer]:` with a letter; use Other for custom decisions and include necessary details. Answers clarify scope and do not approve the subsequent requirements document. Proposed numbers and policies below are options, not established facts.
@@ -164,40 +166,40 @@ X) Other (please describe after [Answer]:).
 4.Technical & LLM: Yuyi Long
 5.Evaluation & Delivery: Yichen Tong
 
-## Question 14: Security Baseline（扩展选择）
+## Question 14: Security Baseline (Extension Selection)
 
-是否对本项目启用安全基线扩展？
+Should the Security Baseline extension be enabled for this project?
 
-A) 是，所有安全规则作为阻断性约束执行（推荐生产级应用）。
+A) Yes, enforce all security rules as blocking constraints (recommended for production applications).
 
-B) 否，跳过安全扩展（适用于概念验证、原型或实验项目）；输入资料已明确提出的安全要求仍保留。
+B) No, skip the security extension (appropriate for proofs of concept, prototypes, or experiments); security requirements explicitly stated in the inputs still apply.
 
-X) 其他（请在 [Answer]: 后说明）。
-
-[Answer]: B
-
-## Question 15: Resiliency Baseline（扩展选择）
-
-是否启用韧性基线？它基于 AWS Well-Architected 可靠性原则，提供涵盖业务目标、变更管理、可观测性、高可用、灾难恢复及持续改进的 15 类设计指导。它只是设计起点，不代表生产就绪，不保证可用性、RTO 或 RPO，也不能替代正式架构评审。
-
-A) 是，作为方向性最佳实践与设计指导应用，后续仍须验证和强化。
-
-B) 否，跳过韧性基线（适用于原型和实验项目）。
-
-X) 其他（请在 [Answer]: 后说明）。
+X) Other (please explain after [Answer]:).
 
 [Answer]: B
 
-## Question 16: Property-Based Testing（扩展选择）
+## Question 15: Resiliency Baseline (Extension Selection)
 
-是否启用属性测试扩展？本次仅影响需求与设计约束，不编写或运行测试。
+Should the Resiliency Baseline be enabled? Based on AWS Well-Architected reliability principles, it provides 15 categories of design guidance covering business objectives, change management, observability, high availability, disaster recovery, and continuous improvement. It is only a design starting point, does not establish production readiness or guarantee availability, RTO, or RPO, and does not replace a formal architecture review.
 
-A) 是，所有属性测试规则作为阻断性约束执行（推荐具有业务逻辑、数据转换、序列化或状态组件的项目）。
+A) Yes, apply it as directional best practices and design guidance, subject to further validation and strengthening.
 
-B) 部分启用，仅覆盖纯函数和序列化往返。
+B) No, skip the resiliency baseline (appropriate for prototypes and experiments).
 
-C) 否，跳过属性测试扩展（适用于简单 CRUD、纯 UI 或薄集成层）。
+X) Other (please explain after [Answer]:).
 
-X) 其他（请在 [Answer]: 后说明）。
+[Answer]: B
+
+## Question 16: Property-Based Testing (Extension Selection)
+
+Should the property-based testing extension be enabled? In this run it affects only requirements and design constraints; no tests will be written or run.
+
+A) Yes, enforce all property-based testing rules as blocking constraints (recommended for projects with business logic, data transformations, serialization, or stateful components).
+
+B) Enable it partially, covering only pure functions and serialization round trips.
+
+C) No, skip the property-based testing extension (appropriate for simple CRUD, UI-only, or thin integration layers).
+
+X) Other (please explain after [Answer]:).
 
 [Answer]: A
