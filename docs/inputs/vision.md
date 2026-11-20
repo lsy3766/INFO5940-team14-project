@@ -1,3 +1,5 @@
+> **Historical input — superseded where later decisions differ.** Added 2026-11-20T20:05:59Z. The original text below is preserved unchanged as pre-Inception evidence; its pending-status statements and open questions describe that earlier snapshot, not the current project status. Inception is now complete. The [approved requirements](../../aidlc-docs/inception/requirements/requirements.md), [approved application design](../../aidlc-docs/inception/application-design/application-design.md) and [approved work unit](../../aidlc-docs/inception/application-design/unit-of-work.md) govern the final product/design baseline. See the [current collaboration plan](../COLLABORATION.md) for subsequent confirmed roles and meeting arrangements. No past meeting or approval is retroactively invented.
+
 # Product Vision — Team Review Draft
 
 Status: Pre-Inception input draft based on discussion with one team member. Not yet reviewed or approved by the full team.
