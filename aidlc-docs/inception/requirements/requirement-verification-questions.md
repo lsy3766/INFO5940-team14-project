@@ -1,5 +1,7 @@
 # Requirement Verification Questions
 
+> English submission edition: the three extension questions originally presented in Chinese have been translated at the user's request. Original answer choices and all other response text are unchanged. The original extension wording is retained in the private pre-translation audit snapshot outside this repository; this is a translation, not a new round of questions.
+
 > English translation edition: extension questions 14–16 have been translated from Chinese without changing options or recorded answers. This is a language-only revision, not a new team decision.
 
 Status: Awaiting team answers. No choices are selected or approved.

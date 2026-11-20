@@ -1,3 +1,5 @@
+> **Latest status:** The actual local chat source has now been found and the original 20 ranges reconciled automatically. See [audit-response-supplement-en.md](audit-response-supplement-en.md). The protocol below records the earlier preparation instructions; it no longer means the source or 20 message ranges remain unavailable. English translations are supplied in-repository; original-language records are retained privately outside it.
+
 # Authentic Chat Transcript Supplement — Preparation Protocol
 
 Status: Instructions only. No original chat transcript has been exported/imported or AI reply reconstructed. Use the 20-entry inventory in submission-readiness-review.md as the reconciliation target, not as source text.

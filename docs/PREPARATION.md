@@ -19,7 +19,8 @@ Status: Inception completed and all required artifacts explicitly approved. Stop
 ## Remaining administrative/submission checks — not missing Inception approvals
 
 - [ ] Confirm repository collaborators accepted invitations; no acceptance evidence is recorded.
-- [ ] Resolve audit response-text gaps using authentic transcript material; do not invent original text or timestamps.
+- [x] Supplement all 20 identified AI-response ranges from the actual local conversation, with source-backed English translations and actual source timestamps; see audit-response-supplement-en.md.
+- [ ] Review translation/source-language requirements with the course rubric and securely retain the original transcript outside the English-only repository.
 - [x] Review the full assignment text supplied by the user against local deliverables; see the latest readiness review.
 - [ ] Confirm any later Canvas changes and complete external repository-access/submission checks.
 - [ ] Review public metadata and sensitive-content checks, then separately authorize commit/push and verify signed-out repository access.

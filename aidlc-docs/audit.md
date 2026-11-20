@@ -1,5 +1,7 @@
 # AI-DLC Audit Log
 
+> **English submission edition.** At the user's explicit request, Chinese portions of this file were translated into English on 2026-11-20T20:35:49Z. Historical entries, ordering, answer choices, decisions and recorded timestamps are preserved, but translated content is NOT verbatim original-language text. Any historical “verbatim”, “raw”, “exact”, “Chinese” or similar label below describes the pre-translation record; read it subject to this notice. The original pre-translation file is retained privately outside the repository at /tmp/cooking-audit-before-translation.md. This is temporary storage and should be archived externally if original-language fidelity is required. Source-backed translations of all 20 identified response gaps are in [audit-response-supplement-en.md](inception/audit-response-supplement-en.md); actual source timestamps and content hashes are recorded there. Historical summaries remain historical; they are not silently replaced with invented source text.
+
 > English translation edition, prepared at the user's request. Chinese passages in the historical entries below have been translated; English passages, decisions, ordering, and historical timestamps are retained. Historical labels such as “verbatim” or “raw” refer to the original-language record, not to translated wording. References to discussing in Chinese describe the actual historical instructions, not the current project language. The original bilingual file is preserved in Git commit `b015067533de75110af16b0d973d83afb4e4e67c`, path `aidlc-docs/audit.md`, SHA-256 `65dd8a49143e1f5586b8760ce7106d0b1818a352be9ad602bfda79bcf209ea99`. This edition does not recover missing AI replies. Original line references in the 20-gap inventory refer to that pre-translation record.
 
 ## Workflow Start — User Request
@@ -1297,3 +1299,33 @@ Do not commit or push yet, and do not enter Construction.
 **User Input — English translation**: Can you directly supplement genuine chat records based on the summaries? Also, we held a full-team topic-selection discussion and arrived at the current topic.
 **Assistant response — English translation of progress message**: Summaries can be organized as clearly labelled supplementary explanations, but cannot restore genuine chat wording or close full-transcript gaps. You confirmed the full-team topic discussion and resulting topic; I will record that confirmation without inventing the unknown meeting date or details.
 **Actions**: Recorded this user confirmation in collaboration documentation, preparation checklist, and readiness review. Historical audit entries remain unchanged. No missing AI response, meeting date, detailed minutes, or new approval was invented. The 20 transcript gaps remain open; no commit or push performed.
+
+## English-only Translation and Authentic Response Supplement
+**Timestamp**: 2026-11-20T20:35:49Z
+**User Inputs** (English translations of actual source messages, not verbatim English):
+
+- Source L616, actual timestamp 2026-11-20T20:10:36.270Z, original text SHA-256 76f6a4d5144ca54259c095c4bd179cf9a4c3e723acbf1eacb63b2cf84604a117: Our entire project should contain no Chinese. Translate the Chinese portions into English. Must those 20 locations be supplemented, or can you do it for me? I do not want to find them one by one.
+- Source L673, actual timestamp 2026-11-20T20:31:21.404Z, original text SHA-256 75ab6c4ce3fc8c62a9ab07c2b8974e5f41d8cb6fe6f0a088226e314aac993bea: Check those 20 gaps and directly supplement the missing parts for me.
+
+**Actions**: Found same-session original local response_item/message records, excluded hidden reasoning/tools/system content, extracted authentic user/assistant records privately outside the repository, and reconciled all 20 ranges to 41 real assistant messages. Wrote English translations with original source line/timestamp/hash and original link targets. Translated all Chinese lines found in project text, adding explicit edition notices rather than claiming translated text is original. Historical decisions, choices and time values remain unchanged; original pre-translation audit retained externally.
+**Necessity**: AGENTS requires exchange logging; these are record-fidelity gaps, not 20 missing product tasks. Canvas-specific scoring requirement remains unverified. Source-backed translations now supply the missing response content; strictly verbatim source-language acceptance is a separate course-check item, not silently claimed satisfied.
+**Verification**: 41 distinct source messages exactly match the union of 20 mapped ranges; source timestamps read directly, original-text hashes recorded. No new approval inferred; Inception remains complete and stopped. No commit/push, model/service connections, application or test files created. Original archives in /tmp need external retention because temporary storage is not durable.
+
+---
+
+## Current Submission Readiness Check and Status Reconciliation
+**Timestamp**: 2026-11-20T20:38:14Z
+**User Input** (English translation): What is still missing now, and does it satisfy submission requirements?
+**Actions**: Read current README, preparation checklist, state/plans and latest readiness report; checked Git status and Chinese-character scan. Found unit-of-work-plan.md had A/A/A/A answers but stale draft/unchecked status. Reconciled only status/checklists with actual previously recorded plan and artifact approvals, without inventing a decision or changing product scope. Appended current readiness result to report.
+**Findings**: Mandatory Inception content and recorded approvals are complete; 20 response ranges supplemented, final meeting/roles and historical input relationships documented. Changes/new supplement remain uncommitted. External public access and Canvas submission not verified/performed. Future Construction feasibility/tests are not missing Inception work. Source-backed English translations do not pretend to be verbatim Chinese originals; course acceptance of transcript format remains an external check.
+**Scope**: No commit/push, application code/tests or Construction.
+
+---
+
+## User-authorized Repository Delivery
+**Timestamp**: 2026-11-20T20:39:48Z
+**User Input** (English translation): I think it is fine; push it.
+**Authorization**: Explicit permission to commit and push the current reviewed documentation changes to the existing repository. No Construction authorized.
+**Actions before delivery**: Checked main branch and origin https://github.com/lsy3766/INFO5940-team14-project.git; reviewed pending differences; git diff --check passed. Verified 20 supplemented ranges/41 messages, English-only project text and no common key/private-key patterns. Preparing a documentation-only commit; push result must be verified separately and is not assumed here. No application tests run because no application/test files changed.
+
+---
